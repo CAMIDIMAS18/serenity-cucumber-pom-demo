@@ -1,2 +1,2 @@
-# project-serenity-bdd-pom
+# Projects-serenity-bdd
 Proyectos de automatización UI implementando Serenity BDD como framework.
