@@ -1,3 +1,3 @@
-# Projectos de automatización con Serenity BDD
+# Projecto de automatización con Serenity BDD
 
-Proyectos de automatización UI implementando Serenity BDD como framework.
+Implementación de la automatización de un proyecto con Serenity BDD 
